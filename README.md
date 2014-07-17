@@ -1,2 +1,4 @@
-Mcpe-mods
+FeeTheAwesomest's MCPE mods
 =========
+How to install
+---------
