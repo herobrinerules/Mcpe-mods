@@ -1,4 +1,4 @@
-/*Ride Anything Mod By FeeTheAwesomest*/
+/*Ride Anything Script Mod By FeeTheAwesomest*/
 
 var item=Player.getCarriedItem();
 
